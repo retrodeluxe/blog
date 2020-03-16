@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://retrodeluxe.github.io/blog/sitemap.xml 
